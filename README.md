@@ -5,9 +5,10 @@
 > Problem Statement **PS3**
 > 
 > *Status: technical proposal.
-
----
-
+>
+> Team Lead :- Kurakula Jahanvi
+> 
+> Team Members :- Ram Nimkande ,Shaurya Chaudhari
 ## 1. Project Name
 
 **VYOM+: End-to-End AI-Powered GST Invoice Intelligence System**
