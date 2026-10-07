@@ -1,8 +1,10 @@
 # VYOM+ — End-to-End AI-Powered GST Invoice Intelligence System
 
-> **Hacktober Fest | Open Source AI Hackathon | Qualifier Round Submission**
-> Organized by Elevate · Problem Statement **PS3**
-> *Status: technical proposal. Everything below is proposed, planned or expected unless explicitly stated otherwise. No implementation, benchmark or accuracy result is claimed.*
+> **Hacktober Fest | Open Source AI Hackathon - Organized by Elevate | Qualifier Round Submission** ·
+>
+> Problem Statement **PS3**
+> 
+> *Status: technical proposal.
 
 ---
 
